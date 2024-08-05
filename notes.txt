@@ -1,0 +1,42 @@
+npm i bcrypt cloudinary cookie-parser 
+cors dotenv express mongoose express-fileupload jsonwebtoken 
+validator
+
+Bcrypt - for password hasing 
+is a password hashing algorithm designed for safe password storing that helps to significantly reduce the risk of dictionary-based cyberattacks
+
+Cloudinary - to upload images on cloud
+provides a secure and comprehensive API for easily uploading media files from server-side code, directly from the browser or from a mobile application
+
+cookie-parser  - to parse the cooie 
+
+cors - connect front end and backend 
+
+dotenv - to keep variables secret 
+express - node js frame work
+mongose - packegs
+express-file-uplaod - to uplaod doctor image 
+jsonwebtocken - to generate web tocken 
+validator - emial verification 
+
+
+MERN_STACK_HOSPITAL_MANAGEMENT_SYSTEM
+
+USERNAME 
+nirali2705
+PASSWORD 
+nirali2705
+MONGODB URI
+mongodb+srv://nirali2705:nirali2705@cluster0.x5ii9z5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+frontend 
+npm i axios react-icons react-multi-carousel react-router-dom react-toastify
+
+axios - to send request 
+react-icons - for icons 
+react-multi-carousel - for slider
+react-router-dom - navigation from page to page 
+react-toastify - other messages 
+
+
